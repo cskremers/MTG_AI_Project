@@ -1,0 +1,23 @@
+CardName,Power,Toughness,Flying,FirstStrike,DoubleStrike,LifeLink,Vigilance,Flash,ProtectionFromRed,Changeling,GreenCost,WhiteCost,RedCost,ColorlessCost,Priority
+Alaborn Cavalier,2,2,0,0,0,0,0,0,0,0,0,2,0,2,0
+Benalish Lancer,2,2,0,0,0,0,0,0,0,0,0,1,0,2,0
+Caravan Escort,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Kabira Vindicator,2,4,0,0,0,0,0,0,0,0,0,1,0,3,0
+Kinsbaile Cavalier,2,2,0,0,1,0,0,0,0,0,0,1,0,3,0
+Knight Exemplar,2,2,0,0,0,0,0,0,0,0,0,2,0,1,0
+Knight of Cliffhaven,2,2,0,0,0,0,0,0,0,0,0,1,0,1,0
+Knight of Meadowgrain,2,2,0,1,0,1,0,0,0,0,0,2,0,0,1
+Knight of the White Orchid,2,2,0,1,0,0,0,0,0,0,0,2,0,0,0
+Leonin Skyhunter,2,2,1,0,0,0,0,0,0,0,0,2,0,0,0
+Lionheart Maverick,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0
+Paladin of Prahv,3,4,0,0,0,1,0,0,0,0,0,2,0,4,1
+Plover Knights,3,3,1,1,0,0,0,0,0,0,0,2,0,3,1
+Silver Knight,2,2,0,1,0,0,0,0,1,0,0,2,0,0,1
+Skyhunter Patrol,2,3,1,1,0,0,0,0,0,0,0,2,0,2,0
+White Knight,2,2,0,1,0,0,0,0,0,0,0,2,0,0,0
+Zhalifrin Commander,2,2,0,0,0,0,0,0,0,0,0,2,0,1,0
+Juniper Order Ranger,2,4,0,0,0,0,0,0,0,0,1,1,0,3,0
+Knight of the Reliquary,2,2,0,0,0,0,0,0,0,0,1,1,0,1,0
+Knotvine Paladin,2,2,0,0,0,0,0,0,0,0,1,1,0,0,0
+Steward of Valeron,2,2,0,0,0,0,1,0,0,0,1,1,0,0,0
+Wilt-Leaf Cavaliers,3,4,0,0,0,0,1,0,0,0,0,0,0,3,0

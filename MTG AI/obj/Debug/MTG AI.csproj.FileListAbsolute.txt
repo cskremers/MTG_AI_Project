@@ -1,0 +1,102 @@
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Programming\Davenport Classes\AI Course\mtg AI\MTG AI\MTG AI\bin\Debug\MTG AI.exe
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Programming\Davenport Classes\AI Course\mtg AI\MTG AI\MTG AI\bin\Debug\MTG AI.pdb
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Programming\Davenport Classes\AI Course\mtg AI\MTG AI\MTG AI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Programming\Davenport Classes\AI Course\mtg AI\MTG AI\MTG AI\obj\Debug\MTG_AI.Properties.Resources.resources
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Programming\Davenport Classes\AI Course\mtg AI\MTG AI\MTG AI\obj\Debug\MTG AI.csproj.GenerateResource.Cache
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Programming\Davenport Classes\AI Course\mtg AI\MTG AI\MTG AI\obj\Debug\MTG AI.exe
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Programming\Davenport Classes\AI Course\mtg AI\MTG AI\MTG AI\obj\Debug\MTG AI.pdb
+C:\Documents and Settings\Denton Bobeldyk\My Documents\Programming\Davenport Classes\AI Course\mtg AI\MTG AI\MTG AI\obj\Debug\MTG_AI.mainForm.resources
+d:\Users\bedwards16\Desktop\MTG AI\MTG AI\bin\Debug\MTG AI.exe
+d:\Users\bedwards16\Desktop\MTG AI\MTG AI\bin\Debug\MTG AI.pdb
+d:\Users\bedwards16\Desktop\MTG AI\MTG AI\obj\Debug\MTG AI.csprojResolveAssemblyReference.cache
+d:\Users\bedwards16\Desktop\MTG AI\MTG AI\obj\Debug\MTG_AI.addCreatureForm.resources
+d:\Users\bedwards16\Desktop\MTG AI\MTG AI\obj\Debug\MTG_AI.addEnchantmentForm.resources
+d:\Users\bedwards16\Desktop\MTG AI\MTG AI\obj\Debug\MTG_AI.addEquipmentForm.resources
+d:\Users\bedwards16\Desktop\MTG AI\MTG AI\obj\Debug\MTG_AI.addToHandForm.resources
+d:\Users\bedwards16\Desktop\MTG AI\MTG AI\obj\Debug\MTG_AI.mainForm.resources
+d:\Users\bedwards16\Desktop\MTG AI\MTG AI\obj\Debug\MTG_AI.Properties.Resources.resources
+d:\Users\bedwards16\Desktop\MTG AI\MTG AI\obj\Debug\MTG_AI.removeCreatureForm.resources
+d:\Users\bedwards16\Desktop\MTG AI\MTG AI\obj\Debug\MTG_AI.removeEnchantmentForm.resources
+d:\Users\bedwards16\Desktop\MTG AI\MTG AI\obj\Debug\MTG_AI.removeEquipmentForm.resources
+d:\Users\bedwards16\Desktop\MTG AI\MTG AI\obj\Debug\MTG_AI.removeFromHandForm.resources
+d:\Users\bedwards16\Desktop\MTG AI\MTG AI\obj\Debug\MTG AI.csproj.GenerateResource.Cache
+d:\Users\bedwards16\Desktop\MTG AI\MTG AI\obj\Debug\MTG AI.exe
+d:\Users\bedwards16\Desktop\MTG AI\MTG AI\obj\Debug\MTG AI.pdb
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\obj\Debug\MTG AI.exe
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\obj\Debug\MTG AI.pdb
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\obj\Debug\MTG AI.csprojResolveAssemblyReference.cache
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\obj\Debug\MTG_AI.addCreatureForm.resources
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\obj\Debug\MTG_AI.addEnchantmentForm.resources
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\obj\Debug\MTG_AI.addEquipmentForm.resources
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\obj\Debug\MTG_AI.addToHandForm.resources
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\obj\Debug\MTG_AI.mainForm.resources
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\obj\Debug\MTG_AI.Properties.Resources.resources
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\obj\Debug\MTG_AI.removeCreatureForm.resources
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\obj\Debug\MTG_AI.removeEnchantmentForm.resources
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\obj\Debug\MTG_AI.removeEquipmentForm.resources
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\obj\Debug\MTG_AI.removeFromHandForm.resources
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\obj\Debug\MTG AI.csproj.GenerateResource.Cache
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\bin\Debug\MTG AI.exe
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\bin\Debug\MTG AI.pdb
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\bin\Debug\CsvHelper.dll
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\bin\Debug\CsvHelper.pdb
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG AI\bin\Debug\CsvHelper.xml
+C:\Users\Korriban\Documents\MTG\src\MTG AI\MTG AI\obj\Debug\MTG AI.exe
+C:\Users\Korriban\Documents\MTG\src\MTG AI\MTG AI\obj\Debug\MTG AI.pdb
+C:\Programs\src\MTG AI\MTG AI\obj\Debug\MTG AI.exe
+C:\Programs\src\MTG AI\MTG AI\obj\Debug\MTG AI.pdb
+C:\Programs\src\MTG AI\MTG AI\bin\Debug\MTG AI.exe
+C:\Programs\src\MTG AI\MTG AI\bin\Debug\MTG AI.pdb
+C:\Programs\src\MTG AI\MTG AI\bin\Debug\CsvHelper.dll
+C:\Programs\src\MTG AI\MTG AI\bin\Debug\CsvHelper.pdb
+C:\Programs\src\MTG AI\MTG AI\bin\Debug\CsvHelper.xml
+C:\Programs\src\MTG AI\MTG AI\obj\Debug\MTG AI.csprojResolveAssemblyReference.cache
+C:\Programs\src\MTG AI\MTG AI\obj\Debug\MTG_AI.addCreatureForm.resources
+C:\Programs\src\MTG AI\MTG AI\obj\Debug\MTG_AI.addEnchantmentForm.resources
+C:\Programs\src\MTG AI\MTG AI\obj\Debug\MTG_AI.addEquipmentForm.resources
+C:\Programs\src\MTG AI\MTG AI\obj\Debug\MTG_AI.addToHandForm.resources
+C:\Programs\src\MTG AI\MTG AI\obj\Debug\MTG_AI.mainForm.resources
+C:\Programs\src\MTG AI\MTG AI\obj\Debug\MTG_AI.Properties.Resources.resources
+C:\Programs\src\MTG AI\MTG AI\obj\Debug\MTG_AI.removeCreatureForm.resources
+C:\Programs\src\MTG AI\MTG AI\obj\Debug\MTG_AI.removeEnchantmentForm.resources
+C:\Programs\src\MTG AI\MTG AI\obj\Debug\MTG_AI.removeEquipmentForm.resources
+C:\Programs\src\MTG AI\MTG AI\obj\Debug\MTG_AI.removeFromHandForm.resources
+C:\Programs\src\MTG AI\MTG AI\obj\Debug\MTG AI.csproj.GenerateResource.Cache
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\bin\Debug\MTG AI.exe
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\bin\Debug\MTG AI.pdb
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\bin\Debug\CsvHelper.dll
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\bin\Debug\CsvHelper.pdb
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\bin\Debug\CsvHelper.xml
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\obj\Debug\MTG_AI.addCreatureForm.resources
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\obj\Debug\MTG_AI.addEnchantmentForm.resources
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\obj\Debug\MTG_AI.addEquipmentForm.resources
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\obj\Debug\MTG_AI.addToHandForm.resources
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\obj\Debug\MTG_AI.mainForm.resources
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\obj\Debug\MTG_AI.Properties.Resources.resources
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\obj\Debug\MTG_AI.removeCreatureForm.resources
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\obj\Debug\MTG_AI.removeEnchantmentForm.resources
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\obj\Debug\MTG_AI.removeEquipmentForm.resources
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\obj\Debug\MTG_AI.removeFromHandForm.resources
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\obj\Debug\MTG AI.csproj.GenerateResource.Cache
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\obj\Debug\MTG AI.exe
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\obj\Debug\MTG AI.pdb
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG AI\obj\Debug\MTG AI.csprojResolveAssemblyReference.cache
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\bin\Debug\MTG AI.exe
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\bin\Debug\MTG AI.pdb
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\bin\Debug\CsvHelper.dll
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\bin\Debug\CsvHelper.pdb
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\bin\Debug\CsvHelper.xml
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\obj\Debug\MTG AI.csprojResolveAssemblyReference.cache
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\obj\Debug\MTG_AI.addCreatureForm.resources
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\obj\Debug\MTG_AI.addEnchantmentForm.resources
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\obj\Debug\MTG_AI.addEquipmentForm.resources
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\obj\Debug\MTG_AI.addToHandForm.resources
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\obj\Debug\MTG_AI.mainForm.resources
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\obj\Debug\MTG_AI.Properties.Resources.resources
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\obj\Debug\MTG_AI.removeCreatureForm.resources
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\obj\Debug\MTG_AI.removeEnchantmentForm.resources
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\obj\Debug\MTG_AI.removeEquipmentForm.resources
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\obj\Debug\MTG_AI.removeFromHandForm.resources
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\obj\Debug\MTG AI.csproj.GenerateResource.Cache
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\obj\Debug\MTG AI.exe
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG AI\obj\Debug\MTG AI.pdb

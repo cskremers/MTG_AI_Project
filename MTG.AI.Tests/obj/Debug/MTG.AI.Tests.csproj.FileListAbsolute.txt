@@ -1,0 +1,40 @@
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG.AI.Tests\bin\Debug\MTG.AI.Tests.dll
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG.AI.Tests\bin\Debug\MTG.AI.Tests.pdb
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG.AI.Tests\bin\Debug\MTG AI.exe
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG.AI.Tests\bin\Debug\CsvHelper.dll
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG.AI.Tests\bin\Debug\MTG AI.pdb
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG.AI.Tests\bin\Debug\CsvHelper.pdb
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG.AI.Tests\bin\Debug\CsvHelper.xml
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG.AI.Tests\obj\Debug\MTG.AI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG.AI.Tests\obj\Debug\MTG.AI.Tests.dll
+C:\Users\Brendon\Programs\MTG Final\MTG AI\MTG.AI.Tests\obj\Debug\MTG.AI.Tests.pdb
+C:\Programs\src\MTG AI\MTG.AI.Tests\bin\Debug\MTG.AI.Tests.dll
+C:\Programs\src\MTG AI\MTG.AI.Tests\bin\Debug\MTG.AI.Tests.pdb
+C:\Programs\src\MTG AI\MTG.AI.Tests\bin\Debug\MTG AI.exe
+C:\Programs\src\MTG AI\MTG.AI.Tests\bin\Debug\CsvHelper.dll
+C:\Programs\src\MTG AI\MTG.AI.Tests\bin\Debug\MTG AI.pdb
+C:\Programs\src\MTG AI\MTG.AI.Tests\bin\Debug\CsvHelper.pdb
+C:\Programs\src\MTG AI\MTG.AI.Tests\bin\Debug\CsvHelper.xml
+C:\Programs\src\MTG AI\MTG.AI.Tests\obj\Debug\MTG.AI.Tests.csprojResolveAssemblyReference.cache
+C:\Programs\src\MTG AI\MTG.AI.Tests\obj\Debug\MTG.AI.Tests.dll
+C:\Programs\src\MTG AI\MTG.AI.Tests\obj\Debug\MTG.AI.Tests.pdb
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG.AI.Tests\bin\Debug\MTG.AI.Tests.dll
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG.AI.Tests\bin\Debug\MTG.AI.Tests.pdb
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG.AI.Tests\bin\Debug\MTG AI.exe
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG.AI.Tests\bin\Debug\CsvHelper.dll
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG.AI.Tests\bin\Debug\MTG AI.pdb
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG.AI.Tests\bin\Debug\CsvHelper.pdb
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG.AI.Tests\bin\Debug\CsvHelper.xml
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG.AI.Tests\obj\Debug\MTG.AI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG.AI.Tests\obj\Debug\MTG.AI.Tests.dll
+C:\Users\Brendon\Programs\MTG_Final_Project\src\MTG AI\MTG.AI.Tests\obj\Debug\MTG.AI.Tests.pdb
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG.AI.Tests\bin\Debug\MTG.AI.Tests.dll
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG.AI.Tests\bin\Debug\MTG.AI.Tests.pdb
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG.AI.Tests\bin\Debug\MTG AI.exe
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG.AI.Tests\bin\Debug\CsvHelper.dll
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG.AI.Tests\bin\Debug\MTG AI.pdb
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG.AI.Tests\bin\Debug\CsvHelper.pdb
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG.AI.Tests\bin\Debug\CsvHelper.xml
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG.AI.Tests\obj\Debug\MTG.AI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG.AI.Tests\obj\Debug\MTG.AI.Tests.dll
+C:\Users\Korriban\Documents\MTG\src\src\MTG AI\MTG.AI.Tests\obj\Debug\MTG.AI.Tests.pdb
